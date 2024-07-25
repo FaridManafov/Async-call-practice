@@ -1,0 +1,46 @@
+{
+    [Symbol(realm)]: null,
+    [Symbol(state)]: {
+      aborted: false,
+      rangeRequested: false,
+      timingAllowPassed: true,
+      requestIncludesCredentials: true,
+      type: 'default',
+      status: 200,
+      timingInfo: {
+        startTime: 136.12556300126016,
+        redirectStartTime: 0,
+        redirectEndTime: 0,
+        postRedirectStartTime: 136.12556300126016,
+        finalServiceWorkerStartTime: 0,
+        finalNetworkResponseStartTime: 0,
+        finalNetworkRequestStartTime: 0,
+        endTime: 0,
+        encodedBodySize: 60,
+        decodedBodySize: 60,
+        finalConnectionTimingInfo: null
+      },
+      cacheState: '',
+      statusText: 'OK',
+      headersList: HeadersList {
+        cookies: null,
+        [Symbol(headers map)]: [Map],
+        [Symbol(headers map sorted)]: null
+      },
+      urlList: [ [URL] ],
+      body: { stream: undefined }
+    },
+    [Symbol(headers)]: HeadersList {
+      cookies: null,
+      [Symbol(headers map)]: Map(7) {
+        'date' => [Object],
+        'content-type' => [Object],
+        'content-length' => [Object],
+        'connection' => [Object],
+        'x-powered-by' => [Object],
+        'access-control-allow-origin' => [Object],
+        'etag' => [Object]
+      },
+      [Symbol(headers map sorted)]: null
+    }
+  }
